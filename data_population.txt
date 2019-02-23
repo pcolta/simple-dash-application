@@ -1,0 +1,9 @@
+COUNTRY	AREA [km2]	POPULATION [mln]	POPULATION DENSITY [people per 1 km2]
+Austria	83,9	8,373	100
+France	547,0	64,709	118
+Germany	357,0	81,878	229
+Poland	312,7	38,167	122
+Ukraine	603,7	45,426	75
+Hungary	93,0	10,014	108
+Spain	504,8	46,087	91
+Norway	324,2	4,855	15
